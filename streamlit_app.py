@@ -20,7 +20,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📊 Katta Wealth Quant")
+st.title("📊 Katta Wealth Risk Analyzer")
 st.caption("Live market data · Quantitative finance · Education first")
 
 with st.expander("⚠️ Educational Use Only", expanded=True):
